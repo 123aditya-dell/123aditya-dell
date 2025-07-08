@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frameworks,backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 123aditya-dell
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: 🌠 😀 
 
 <!---
